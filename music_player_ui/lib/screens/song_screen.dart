@@ -80,7 +80,7 @@ class _SongScreenState extends State<SongScreen> {
                               ),
                               const SizedBox(height: 7),
                               const Text(
-                                'YOGESH G',
+                                'Sample',
                                 style: TextStyle(
                                   color: Colors.teal,
                                   fontSize: 15,
